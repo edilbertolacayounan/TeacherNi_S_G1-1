@@ -37,7 +37,7 @@ En esta actividad aprenderás a usar Git y GitHub para trabajar con repositorios
 5. **Modificar el archivo README.md**  
    - Abre el archivo `README.md`.  
    - Agrega tu nombre y la hora en que subiste el archivo.  
-     Ejemplo:  
+     Ejemplo: 
      ```
      Estudiante: Juan Pérez - Hora: 10:35 AM
      ```
